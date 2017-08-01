@@ -17,7 +17,7 @@ buildscript {
 apply plugin: 'konan'
 
 konanArtifacts {
-    Hello {
+    Hello { // 将会生成Hello.kexe 可执行文件
 
     }
 }

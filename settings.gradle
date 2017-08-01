@@ -1,0 +1,5 @@
+rootProject.name = 'chapter16_kotlin_native_helloworld_simple'
+include ':hello'
+include ':tensorflow'
+include ':concurrent'
+
